@@ -1,0 +1,166 @@
+.navbar,
+.main {
+    background-color: rgba(241, 243, 255, 1);
+}
+
+/* navbar */
+.box {
+    width: 100px;
+    height: 34px;
+    background-color: #0D28A6;
+}
+
+.navStyle {
+    padding: 10px 20px;
+    fontWeight: bold;
+}
+
+/* navbar */
+
+/* main */
+.picture img {
+    width: 118.5%;
+    margin-left: 15px;
+    padding-top: 75px;
+}
+
+.title {
+    font-size: 36px;
+    font-weight: bold;
+    padding-top: 25%;
+}
+
+.content {
+    font-size: 14px;
+    padding-right: 80px;
+}
+
+/* main */
+
+/* our service */
+.our-service {
+    padding-left: 50px;
+    padding-top: 100px;
+}
+
+.text-service {
+    padding-left: 45px !important;
+    padding-top: 40px;
+}
+
+.text-service p {
+    font-size: 15px;
+}
+
+/* our service */
+
+/* why us */
+.why-us {
+    padding-top: 100px;
+}
+
+.why-text .card-text {
+    font-size: 14px;
+}
+
+/* why us */
+
+/* testimonial */
+.testimonial {
+    padding-top: 100px;
+}
+
+.item {
+    width: 100%;
+    background-color: rgba(241, 243, 255, 1);
+    border-radius: 8px;
+}
+
+.card-left {
+    width: 50%;
+    height: 50%;
+    margin: 60px 30px;
+}
+
+.card-right {
+    text-align: justify;
+    font-size: 12px;
+    padding: 70px 50px 0 0;
+}
+
+.Testimonial-title {
+    text-align: center;
+}
+
+.owl-carousel .testi-body {
+    display: flex;
+}
+
+/* testimonial */
+
+/* banner */
+.banner-content {
+    margin-top: 100px;
+    padding: 64px 0 64px 0;
+    border-radius: 13px;
+    background-color: rgba(13, 40, 166, 1);
+}
+
+.banner-content h3 {
+    font-size: 36px;
+}
+
+.banner-content p {
+    font-size: 14px;
+    padding: 16px 310px 52px 310px;
+}
+
+/* banneer */
+
+/* faq */
+.faq {
+    padding-top: 100px;
+}
+
+.faq-content .faq-card {
+    margin-bottom: 10px;
+}
+
+.faq-title h1 {
+    font-size: 24px;
+}
+
+/* faq */
+
+/* footer */
+.footer {
+    margin-top: 100px;
+}
+
+.footer .footer-link a {
+    color: black;
+    text-decoration: none;
+}
+
+.footer .footer-link a:hover {
+    color: blue;
+}
+
+/* footer */
+
+/* form */
+.form-content {
+    height: 110px;
+    width: 90% !important;
+    margin-top: -50px;
+    padding-top: 5px;
+    background-color: #ffffff;
+    position: relative;
+    z-index: 999;
+    justify-content: center;
+    align-items: center;
+    box-shadow: 2px 3px 5px 0px #777777;
+    border-radius: 8px;
+}
+
+/* form */
